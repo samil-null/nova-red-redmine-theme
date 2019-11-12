@@ -41,5 +41,12 @@ span.search_for_watchers a {
 }
 
 tr.issue.priority-1 {
-  background:#de2222a3;
+  background:#e83c3c75;
 }
+
+
+tr.issue.priority-1 {
+  background: #acfbac;
+}
+
+
