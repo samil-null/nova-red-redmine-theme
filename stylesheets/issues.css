@@ -39,3 +39,7 @@ span.search_for_watchers {
 span.search_for_watchers a {
   margin-left: -3px;
 }
+
+tr.issue.priority-1 {
+  background:#de2222a3;
+}
